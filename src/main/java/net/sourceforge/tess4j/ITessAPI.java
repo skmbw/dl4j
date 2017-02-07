@@ -24,7 +24,7 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * An interface represents common TessAPI classes/constants.
+ * An interface represents common TessAPI classes/constants.bizili建行信用卡尾号0462
  */
 public interface ITessAPI {
 
